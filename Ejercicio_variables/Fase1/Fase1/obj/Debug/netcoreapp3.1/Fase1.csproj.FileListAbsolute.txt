@@ -1,0 +1,11 @@
+D:\C#\Fase1\Fase1\obj\Debug\netcoreapp3.1\Fase1.csprojAssemblyReference.cache
+D:\C#\Fase1\Fase1\obj\Debug\netcoreapp3.1\Fase1.AssemblyInfoInputs.cache
+D:\C#\Fase1\Fase1\obj\Debug\netcoreapp3.1\Fase1.AssemblyInfo.cs
+D:\C#\Fase1\Fase1\bin\Debug\netcoreapp3.1\Fase1.exe
+D:\C#\Fase1\Fase1\bin\Debug\netcoreapp3.1\Fase1.deps.json
+D:\C#\Fase1\Fase1\bin\Debug\netcoreapp3.1\Fase1.runtimeconfig.json
+D:\C#\Fase1\Fase1\bin\Debug\netcoreapp3.1\Fase1.runtimeconfig.dev.json
+D:\C#\Fase1\Fase1\bin\Debug\netcoreapp3.1\Fase1.dll
+D:\C#\Fase1\Fase1\bin\Debug\netcoreapp3.1\Fase1.pdb
+D:\C#\Fase1\Fase1\obj\Debug\netcoreapp3.1\Fase1.dll
+D:\C#\Fase1\Fase1\obj\Debug\netcoreapp3.1\Fase1.pdb
