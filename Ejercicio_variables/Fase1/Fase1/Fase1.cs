@@ -14,7 +14,7 @@ namespace Fase1
             int mes = 01;
             int any = 2020;
 
-            Console.WriteLine($"{cognom1} {cognom2} {nom}");
+            Console.WriteLine($"{cognom1} {cognom2}, {nom}");
             Console.WriteLine($"{dia}/{mes}/{any}");
 
 
