@@ -7,9 +7,12 @@ var any = 2020;
 
 var totnom = cognom1 + " " + cognom2 + "," + nom;
 console.log(totnom);
-document.body.innerHTML = "<h1>" + cognom1 + " " + cognom2 + "," + nom + "</h1>";
-
+/*<p id="totnom">
+totnom = cognom1 + " " + cognom2 + "," + nom;
+</p>*/
+//document.body.innerHTML = totnom;
+document.write(totnom);
 
 var data = dia + "/" + mes + "/" + any;
 console.log(data);
-document.body.innerHTML = "<h1>" + dia + "/" + mes + "/" + any + "</h1>";
+document.write("<br>" + data);
