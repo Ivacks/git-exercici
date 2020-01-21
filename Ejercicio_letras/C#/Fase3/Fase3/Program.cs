@@ -17,7 +17,7 @@ namespace Fase3
             nom.Add('N', 1);
 
             foreach(KeyValuePair<char, int> lletra in nom)
-            {
+            {   
                 Console.WriteLine("Lletra: " + lletra.Key + " numero de intentos: " +  lletra.Value);
             }
 
