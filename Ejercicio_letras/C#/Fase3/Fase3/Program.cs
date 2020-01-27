@@ -12,14 +12,19 @@ namespace Fase3
             // Rellenar diccionario
 
             nom.Add('I', 1);
-            nom.Add('V', 1);
+            nom.Add('V', 1);    
             nom.Add('A', 1);
             nom.Add('N', 1);
 
-            foreach(KeyValuePair<char, int> lletra in nom)
-            {   
-                Console.WriteLine("Lletra: " + lletra.Key + " numero de intentos: " +  lletra.Value);
+            foreach (char s  in nom.Keys)
+            {
+                Console.WriteLine("Lletra: " + s);
+                foreach (int i in nom.Values)
+                {
+                    Console.WriteLine("Nombre d'intents: " + i);
+                }
             }
+
 
         }
     }
