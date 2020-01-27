@@ -1,5 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
+
+
 namespace Fase4
 {
     class Program
@@ -8,11 +11,13 @@ namespace Fase4
         {
             List<char> nom = new List<char>();
             List<char> surname = new List<char>();
+            
 
             nom.Add('I');
             nom.Add('V');
             nom.Add('A');
             nom.Add('N');
+            nom.Add(',');
             surname.Add('N');
             surname.Add('A');
             surname.Add('V');
@@ -21,10 +26,9 @@ namespace Fase4
             surname.Add('R');
             surname.Add('O');
 
-            nom.AddRange(surname);
 
-            Console.WriteLine(nom[0] + ", " + nom[1] + ", " + nom[2] + ", " + nom[3] + ",  ," + nom[4] + ", " + 
-                nom[5] + ", " + nom[6] + ", " + nom[7] + ", " + nom[8] + ", " + nom[9] + ", " + nom[10]);
+            List<char> fullname = nom.Concat(surname).ToList();
+            fullname.ForEach(item => System.Console.WriteLine(item));
 
         }
     }
