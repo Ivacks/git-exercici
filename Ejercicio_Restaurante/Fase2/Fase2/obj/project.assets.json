@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\Nom_Ciutats - IT ACADEMY\\Fase3\\Fase3\\Fase3.csproj",
-      "projectName": "Fase3",
-      "projectPath": "D:\\C#\\Nom_Ciutats - IT ACADEMY\\Fase3\\Fase3\\Fase3.csproj",
+      "projectUniqueName": "D:\\C#\\Restaurant - IT ACADEMY\\Fase2\\Fase2\\Fase2.csproj",
+      "projectName": "Fase2",
+      "projectPath": "D:\\C#\\Restaurant - IT ACADEMY\\Fase2\\Fase2\\Fase2.csproj",
       "packagesPath": "C:\\Users\\34630\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\Nom_Ciutats - IT ACADEMY\\Fase3\\Fase3\\obj\\",
+      "outputPath": "D:\\C#\\Restaurant - IT ACADEMY\\Fase2\\Fase2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

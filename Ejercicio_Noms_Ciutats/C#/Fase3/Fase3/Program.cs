@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace Fase3
 {
@@ -6,14 +7,20 @@ namespace Fase3
     {
         static void Main(string[] args)
         {
-            string[] ciutats = {"B4rcelon4", "M4drid", "V4lenci4", "M4l4l4", "C4dis", "S4nt4nder"};
 
-            Array.Sort(ciutats);
+
+            string[] ciutats = {"Barcelona", "Madrid", "Valencia", "Malaga", "Cadis", "Santander"};
+
+            string[] ArrayCiutatsModificades = new string[ciutats.Length];
+
+            ArrayCiutatsModificades = ciutats.Select(s => s.Replace("a", "4")).ToArray();
+
+            Array.Sort(ArrayCiutatsModificades);
 
             Console.WriteLine("Las ciudades introducidas son las siguientes: ");
-            for (int i = 0; i < ciutats.Length; i++)
+            for (int i = 0; i < ArrayCiutatsModificades.Length; i++)
             {
-                Console.Write(ciutats[i] + " ");
+                Console.Write(ArrayCiutatsModificades[i] + " ");
             }
             Console.ReadKey();
 
