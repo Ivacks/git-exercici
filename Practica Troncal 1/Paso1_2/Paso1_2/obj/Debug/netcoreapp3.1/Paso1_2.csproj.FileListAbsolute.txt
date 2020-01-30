@@ -1,0 +1,11 @@
+D:\C#\Practica Troncal - IT ACADEMY\Paso1_2\Paso1_2\obj\Debug\netcoreapp3.1\Paso1_2.csprojAssemblyReference.cache
+D:\C#\Practica Troncal - IT ACADEMY\Paso1_2\Paso1_2\obj\Debug\netcoreapp3.1\Paso1_2.AssemblyInfoInputs.cache
+D:\C#\Practica Troncal - IT ACADEMY\Paso1_2\Paso1_2\obj\Debug\netcoreapp3.1\Paso1_2.AssemblyInfo.cs
+D:\C#\Practica Troncal - IT ACADEMY\Paso1_2\Paso1_2\bin\Debug\netcoreapp3.1\Paso1_2.exe
+D:\C#\Practica Troncal - IT ACADEMY\Paso1_2\Paso1_2\bin\Debug\netcoreapp3.1\Paso1_2.deps.json
+D:\C#\Practica Troncal - IT ACADEMY\Paso1_2\Paso1_2\bin\Debug\netcoreapp3.1\Paso1_2.runtimeconfig.json
+D:\C#\Practica Troncal - IT ACADEMY\Paso1_2\Paso1_2\bin\Debug\netcoreapp3.1\Paso1_2.runtimeconfig.dev.json
+D:\C#\Practica Troncal - IT ACADEMY\Paso1_2\Paso1_2\bin\Debug\netcoreapp3.1\Paso1_2.dll
+D:\C#\Practica Troncal - IT ACADEMY\Paso1_2\Paso1_2\bin\Debug\netcoreapp3.1\Paso1_2.pdb
+D:\C#\Practica Troncal - IT ACADEMY\Paso1_2\Paso1_2\obj\Debug\netcoreapp3.1\Paso1_2.dll
+D:\C#\Practica Troncal - IT ACADEMY\Paso1_2\Paso1_2\obj\Debug\netcoreapp3.1\Paso1_2.pdb
